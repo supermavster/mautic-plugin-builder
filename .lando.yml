@@ -1,4 +1,4 @@
-name: my-lando-app
+name: mautic-plugin-builder
 recipe: lemp
 config:
   webroot: .
