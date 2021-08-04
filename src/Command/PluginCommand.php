@@ -1,7 +1,7 @@
 <?php
 
 // src/Command/PluginCommand.php
-namespace Supermavster\MauticPluginCreator\Command;
+namespace Supermavster\MauticPluginBuilder\Command;
 
 
 use Symfony\Component\Console\Command\Command;

@@ -16,6 +16,6 @@
     },
 
     "autoload": {
-        "psr-4": {"Supermavster\\MauticPluginCreator\\": "src/"}
+        "psr-4": {"Supermavster\\MauticPluginBuilder\\": "src/"}
     }
 }

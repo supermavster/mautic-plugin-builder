@@ -1,6 +1,6 @@
 <?php
 
-namespace Supermavster\MauticPluginCreator;
+namespace Supermavster\MauticPluginBuilder;
 
 class Plugin
 {
