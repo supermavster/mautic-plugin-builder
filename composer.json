@@ -1,0 +1,21 @@
+{
+    "name": "supermavster/mautic-plugin-builder",
+    "description": "Basic Mautic custom plugin builder",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "authors": [
+	    {
+	    	"name": "supermavster",
+	    	"email": "ingeniero.miguelvargas@gmail.com"	
+	    }
+    ],
+    "require": {
+        "symfony/console": "*"
+    },
+
+    "autoload": {
+        "psr-4": {"Supermavster\\MauticPluginCreator\\": "src/"}
+    }
+}

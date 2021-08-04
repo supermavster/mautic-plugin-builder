@@ -1,0 +1,4 @@
+name: my-lando-app
+recipe: lemp
+config:
+  webroot: .
